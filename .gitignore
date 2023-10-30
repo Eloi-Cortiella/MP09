@@ -1,6 +1,8 @@
 # carpetes
 /.idea
 /.idea/*
+/vendor/*
 
 #arxius
 /prova.php
+.env
