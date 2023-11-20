@@ -1,6 +1,6 @@
 <?php
+//echo 'Hello World!';
 
-//echo 'Hello World'
 require 'app/index.php';
 
 require 'resources/views/index.blade.php';
