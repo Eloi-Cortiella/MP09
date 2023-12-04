@@ -12,7 +12,6 @@ class Database
     {
         $this->pdo = $pdo;
     }
-
     public function selectAll($table)
     {
 

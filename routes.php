@@ -6,4 +6,7 @@ return [
     '/index'=>'../app/index.php',
     '/home'=>'../app/index.php',
     '/tasks' => '../app/index.php',
+    '/contact' => '../app/contact.php',
+    '/users'=>'../app/users.php',
+    '/about' => '../app/about.php',
 ];
